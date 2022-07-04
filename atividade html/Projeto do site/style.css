@@ -1,0 +1,12 @@
+h1{
+    color: blueviolet;
+}
+h2{
+    color: brown;
+}
+img {
+    width:420px; 
+    height: 360px;
+    display: block;
+    margin: 0px auto;
+}
